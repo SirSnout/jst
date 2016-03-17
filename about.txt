@@ -1,0 +1,5 @@
+git project folder for all activities
+ - bookreading
+ - excersises
+ - etc
+ concerning Javascript tutorial sessions.
