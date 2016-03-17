@@ -1,5 +1,9 @@
-git project folder for all activities
+Git project folder for all activities
+ 
  - bookreading
  - excersises
+     -book
+     -/r/dayliprogrammar   // the easy ones at first
  - etc
+ 
  concerning Javascript tutorial sessions.
